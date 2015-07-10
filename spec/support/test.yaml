@@ -1,0 +1,7 @@
+something:
+  value: a
+something2:
+  sample:
+    - 1
+    - 2
+    - 3

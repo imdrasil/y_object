@@ -1,0 +1,2 @@
+class YObjectError < StandardError
+end
